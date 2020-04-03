@@ -13,3 +13,11 @@
 Run this command to execute the jar file:</p>
 <code>java -jar bscript.jar</code>
 <p>Enter the path to a <code>.b</code> file into the program to run.</p>
+
+<br>
+
+<h4>Look at the <a href="https://github.com/hershyz/bscript/tree/master/examples">examples page</a> for rules on syntax and structure.</h4>
+
+<br>
+
+<p>Remember, source code of the core can be modified to extend bscript to be viable for any use case.</p>
